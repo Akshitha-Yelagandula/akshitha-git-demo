@@ -2,5 +2,6 @@ git add -
 git commit - 
 git push -
 git branch -
+git checkout -b <branchname> - creates and checksout to that branch
 git clone -
 
